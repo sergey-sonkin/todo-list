@@ -1,4 +1,4 @@
-[x] Start a todolist
-[] Finish a todo list
-[] Ace an interview
-[] Finish readme
+- [x] Start a todolist
+- [] Finish a todo list
+- [] Ace an interview
+- [] Finish readme
